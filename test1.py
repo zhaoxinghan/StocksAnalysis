@@ -13,7 +13,7 @@ def GetTsCode():
 
 # get stock daily data from tushare
 
-startDate   = '20100101'    # start query date
+startDate   = '20190101'    # start query date
 endDate     = '20201231'    # end query date
 
 tsCode = GetTsCode()    # Get query ts_code
